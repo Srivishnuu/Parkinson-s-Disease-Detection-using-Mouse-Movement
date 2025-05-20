@@ -22,9 +22,26 @@ Personalized recommendations:
 2) Visualizes test results with clear graphics
 
 Requirements:
-Python 3.x
-tkinter (usually included with Python)
-numpy (pip install numpy)
+* Python 3.x
+* tkinter (usually included with Python)
+* numpy (pip install numpy)
+
+How to Run
+python parkinsons_detection.py
+
+Usage
+
+1.Complete all three tests:
+
+* Follow the line while holding mouse button
+* Trace the square outline
+* Click moving targets as quickly as possible
+
+2.View your results and risk assessment
+
+
+![image](https://github.com/user-attachments/assets/e7433914-8f52-40b8-8e49-2fca929782eb)
+
 
 
 
