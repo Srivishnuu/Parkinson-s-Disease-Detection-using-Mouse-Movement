@@ -5,5 +5,26 @@ A MACHINE LEARNING APPORACH TO PARKINSON’S DISEASE DETECTION BASED ON MOUSE IN
 ![image](https://github.com/user-attachments/assets/29fb57ff-6286-4cc3-9cae-abfaeaeda7d5)
 
 
+Features
+
+Three diagnostic tests:
+1)Follow Line Test (assesses hand steadiness)
+2)Draw Square Test (evaluates fine motor control)
+3)Click Targets Test (measures reaction time and accuracy)
+
+Comprehensive analysis:
+* Calculates deviation from ideal path
+* Measures movement smoothness
+* Evaluates reaction times and consistency
+
+Personalized recommendations:
+1) Provides food suggestions based on risk level
+2) Visualizes test results with clear graphics
+
+Requirements:
+Python 3.x
+tkinter (usually included with Python)
+numpy (pip install numpy)
+
 
 
