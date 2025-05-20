@@ -43,6 +43,28 @@ Usage
 
 ![image](https://github.com/user-attachments/assets/e7433914-8f52-40b8-8e49-2fca929782eb)
 
+Technical Details
+* Uses mouse movement analysis to assess motor skills
+* Implements mathematical models to calculate:
+* Mean squared error from ideal path
+* Movement smoothness (jerk analysis)
+* Reaction time statistics
+
+  
+Disclaimer
+This application provides preliminary assessment only and is not a medical diagnosis tool. Always consult with healthcare professionals for proper medical evaluation.
+
+Screenshot Description:
+* The screenshot shows the application interface
+* Left panel with test buttons and settings
+* Main canvas area displaying the Follow Line test in progress
+* Results panel at the bottom showing test instructions
+* Clean, modern UI with intuitive controls
+
+
+License:
+MIT License Free for educational and research purposes
+
 
 
 
